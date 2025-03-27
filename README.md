@@ -34,8 +34,11 @@ Linux-Server-Admin/
 
 
 │   ├── eidia.ma.conf          # Apache virtual host config
+
 │   ├── index.html             # Custom webpage
+
 │   ├── StudentPlatform/       # Student management system
+
 │   └── README.md              # Web server instructions
 └── README.md                  # Main project documentation
 
