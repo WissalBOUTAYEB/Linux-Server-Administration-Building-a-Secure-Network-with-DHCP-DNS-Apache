@@ -16,16 +16,23 @@ The setup was completed as part of a semester project at the Euro Mediterranean 
 
 📋 Project Structure
 
+
 Linux-Server-Admin/
+
 ├── DHCP/
+
 │   ├── dhcpd.conf             # DHCP server configuration
 │   └── README.md              # DHCP setup instructions
 ├── DNS/
+
+
 │   ├── named.conf.local       # DNS zone declarations
 │   ├── eidia.ma.zone          # Forward zone file
 │   ├── eidia.ma.rev           # Reverse zone file
 │   └── README.md              # DNS setup instructions
 ├── WebServer/
+
+
 │   ├── eidia.ma.conf          # Apache virtual host config
 │   ├── index.html             # Custom webpage
 │   ├── StudentPlatform/       # Student management system
